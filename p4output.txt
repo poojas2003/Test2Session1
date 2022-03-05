@@ -1,1 +1,4 @@
-
+./a.out
+enter the value of n
+4
+3 is the nth number of 4 fibonaacci series
