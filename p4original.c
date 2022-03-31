@@ -26,4 +26,8 @@ int main()
   fibo=find_fibo(n);
   output(n,fibo);
   return 0;
+//for(i=1;i<n;i++)
+//temp=n1;
+ // n1=n1+n2;
+  //n2=temp; 
 }
